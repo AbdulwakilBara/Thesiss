@@ -5,6 +5,8 @@ HydroMetrix has a smarter take on the situation with a real-time Internet of Thi
 
 ## These materials and hardware have been carefully selected to ensure our system operates efficiently and looks great.
 
+![457554537_607373941954625_6464031137333035506_n](https://github.com/user-attachments/assets/8f1d49fc-1a53-4be1-8748-0797c66334de)
+
 ![457515417_1742825326526286_2158547942775205579_n](https://github.com/user-attachments/assets/6c484e2e-3def-45d6-b9cc-2da73c5ab4a9)
 
 ![454647750_1039422480975634_8397679411726573105_n](https://github.com/user-attachments/assets/cb12e9ab-b22c-430b-99bc-3dc369541861)
