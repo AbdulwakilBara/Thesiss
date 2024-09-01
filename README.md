@@ -11,4 +11,6 @@ HydroMetrix has a smarter take on the situation with a real-time Internet of Thi
 
 ![457515417_1742825326526286_2158547942775205579_n](https://github.com/user-attachments/assets/6c484e2e-3def-45d6-b9cc-2da73c5ab4a9)
 
+## The YF-S201 Flow Sensor (Dataq part number 2000362) allows Dataq Instruments data acquisition and data logger units to acquire flow rate (L/sec) information. The combination of these two products provides a compact solution, with sensor excitation provided by the data logger.
+
 ![454647750_1039422480975634_8397679411726573105_n](https://github.com/user-attachments/assets/cb12e9ab-b22c-430b-99bc-3dc369541861)
