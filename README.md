@@ -13,7 +13,8 @@ HydroMetrix has a smarter take on the situation with a real-time Internet of Thi
 
 ## This is how we monitor the tank: We use sensors to keep track of the tank levels in real-time, so we can easily see and respond to any changes 
 ![457186645_8222712561147720_3147704850208620193_n (1)](https://github.com/user-attachments/assets/918eb752-e9f4-4e6d-89b0-6d82e13ef57a)
-![457186645_8222712561147720_3147704850208620193_n](https://github.com/user-attachments/assets/0c6f9180-e61a-47f9-b87f-b561d52532bf)
+
+![456696717_1580995779433067_3598530739366817952_n](https://github.com/user-attachments/assets/7b326e36-05ef-44ca-9d6a-a3ef753367c2)
 
 
 ## The YF-S201 Flow Sensor (Dataq part number 2000362) allows Dataq Instruments data acquisition and data logger units to acquire flow rate (L/sec) information. The combination of these two products provides a compact solution, with sensor excitation provided by the data logger.
